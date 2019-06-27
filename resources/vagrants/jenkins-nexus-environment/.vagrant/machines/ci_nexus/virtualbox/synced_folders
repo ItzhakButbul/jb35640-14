@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/danmax/IdeaProjects/JB/jb35640-13/resources/vagrants/jenkins-nexus-environment","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
